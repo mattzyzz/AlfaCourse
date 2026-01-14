@@ -1,0 +1,14 @@
+export { Hero } from './Hero';
+export { AudienceTabs } from './AudienceTabs';
+export { TrustSection } from './TrustSection';
+export { ProductsGrid } from './ProductsGrid';
+export { ProductsShowcase } from './ProductsShowcase';
+export { ImplementationBenefits } from './ImplementationBenefits';
+export { CoursesShowcase } from './CoursesShowcase';
+export { HrCabinet } from './HrCabinet';
+export { CustomCoursesDetails } from './CustomCoursesDetails';
+export { AlfaTrackDetails } from './AlfaTrackDetails';
+export { ProductSection } from './ProductSection';
+export { CaseStudies } from './CaseStudies';
+export { FAQ } from './FAQ';
+export { FinalCTA } from './FinalCTA';
